@@ -1,6 +1,5 @@
 /**
  * Twenty Seventeen: Dark Color Scheme
- *
  * See inc/color-patterns.php for dynamic color overrides for the theme.
  *
  * Colors are ordered from light to dark.
@@ -286,7 +285,7 @@ body.colors-dark,
 .colors-dark .page-numbers.current,
 .colors-dark .page-links .page-number,
 .colors-dark .site-description {
-	color: #bbb;
+	color: #d9b310;
 }
 
 .colors-dark button:hover,
@@ -307,7 +306,7 @@ body.colors-dark,
 .colors-dark .social-navigation a:hover,
 .colors-dark .social-navigation a:focus {
 	background: #999;
-	color: #222;
+	color: #232331;
 }
 
 .colors-dark .entry-footer .cat-links .icon,
@@ -403,12 +402,12 @@ body.colors-dark,
 .colors-dark textarea,
 .colors-dark select,
 .colors-dark fieldset {
-	background: #333;
+	background: #65656F;
 }
 
 .colors-dark tr,
 .colors-dark thead th {
-	border-color: #333;
+	border-color: #65656F;
 }
 
 .colors-dark .navigation-top,
@@ -417,7 +416,7 @@ body.colors-dark,
 .colors-dark .comment-navigation,
 .colors-dark .entry-footer,
 .colors-dark .site-footer {
-	border-top-color: #333;
+	border-top-color: #65656F;
 }
 
 .colors-dark .single-featured-image-header,
@@ -425,7 +424,7 @@ body.colors-dark,
 .colors-dark .main-navigation li,
 .colors-dark .entry-footer,
 .colors-dark #comments {
-	border-bottom-color: #333;
+	border-bottom-color: #65656F;
 }
 
 .colors-dark .site-header,
@@ -440,14 +439,14 @@ body.colors-dark,
 .colors-dark .prev.page-numbers:hover,
 .colors-dark .next.page-numbers:focus,
 .colors-dark .next.page-numbers:hover {
-	color: #222;
+	color: #232331;
 }
 
 body.colors-dark,
 .colors-dark .site-content-contain,
 .colors-dark .navigation-top,
 .colors-dark .main-navigation ul {
-	background: #222;
+	background: #232331;
 }
 
 .colors-dark .entry-title a,
@@ -474,16 +473,16 @@ body.colors-dark,
 .colors-dark .widget ul li a,
 .colors-dark .site-footer .widget-area ul li a,
 .colors-dark .site-info a {
-	-webkit-box-shadow: inset 0 -1px 0 rgba(34, 34, 34, 1); /* Equivalant to #222 */
-	box-shadow: inset 0 -1px 0 rgba(34, 34, 34, 1); /* Equivalant to #222 */
+	-webkit-box-shadow: inset 0 -1px 0 rgba(34, 34, 34, 1); /* Equivalant to #232331 */
+	box-shadow: inset 0 -1px 0 rgba(34, 34, 34, 1); /* Equivalant to #232331 */
 }
 
 /* Fixes linked images */
 .colors-dark .entry-content a img,
 .colors-dark .comment-content a img,
 .colors-dark .widget a img {
-	-webkit-box-shadow: 0 0 0 8px #222;
-	box-shadow: 0 0 0 8px #222;
+	-webkit-box-shadow: 0 0 0 8px #232331;
+	box-shadow: 0 0 0 8px #232331;
 }
 
 .colors-dark .entry-footer .edit-link a.post-edit-link {
@@ -537,18 +536,18 @@ body.colors-dark,
 	}
 
 	.colors-dark .main-navigation ul ul {
-		border-color: #333;
-		background: #222;
+		border-color: #65656F;
+		background: #232331;
 	}
 
 	.colors-dark .main-navigation ul li.menu-item-has-children:before,
 	.colors-dark .main-navigation ul li.page_item_has_children:before {
-		border-bottom-color: #333;
+		border-bottom-color: #65656F;
 	}
 
 	.main-navigation ul li.menu-item-has-children:after,
 	.main-navigation ul li.page_item_has_children:after {
-		border-bottom-color: #222;
+		border-bottom-color: #232331;
 	}
 
 	.colors-dark .main-navigation li li.focus > a,
@@ -560,7 +559,7 @@ body.colors-dark,
 	.colors-dark .main-navigation li li.current-menu-item a:hover,
 	.colors-dark .main-navigation li li.current_page_item a:focus,
 	.colors-dark .main-navigation li li.current-menu-item a:focus {
-		color: #222;
+		color: #232331;
 	}
 
 }
